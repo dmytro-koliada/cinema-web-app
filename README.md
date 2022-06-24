@@ -1,5 +1,5 @@
 #  Cinema application
- ![](../../AppData/Local/Temp/7a89acc3f978ca430600dd8ed1dc0d68.jpg)
+![](front.jpg)
 
 This application implements a service for buying cinema tickets. 
 
